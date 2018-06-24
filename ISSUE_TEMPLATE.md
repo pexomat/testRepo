@@ -1,10 +1,29 @@
-**Steps to reproduce:**
+## Description
 
+[Description of the issue]
 
-**Actual result:**
-Visual Proof (screenshots, videos, text)
+## Steps to Reproduce
 
-**Expected Result:**
+1. [First Step]
+2. [Second Step]
+3. [and so on...]
 
+## Expected behavior: 
 
-**Additional information:**
+[What you expect to happen]
+
+## Actual behavior: 
+
+[What actually happens]
+
+## Version:
+
+What version are you running?
+
+## Additional Information:
+
+Any additional information, configuration or data that might be necessary to reproduce the issue.
+
+## Possible Solution:
+
+Write a possible solution, if you know.
