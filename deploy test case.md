@@ -13,7 +13,7 @@
 || Change hair of avatar.      |    Hair of avatar is changing according to your choices. |
 || Change eyes of avatar.      |    Eyes of avatar are changing according to your choices. |
 || Change nose and mouth of avatar.      |    Nose and mouth are changing according to your choices. |
-||Change head cover of avatar.||Head covers are changing according to your choices.|
+||Change head cover of avatar.|Head covers are changing according to your choices.|
 ||Change glasses of avatar.|Glasses are changing according to your choices.|
 ||Change tshirt of avatar.|Tshirt is changing according to your choices.|
 ||Change size and position of avatar.|Size and position of avatar are changing according to your choices.|
