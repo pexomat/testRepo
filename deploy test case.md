@@ -1,7 +1,7 @@
 | Device        | Description           | Expected result  |
 | ------------- |:-------------:| -----:|
 | Mobile app      | Start mobile app. | Mobile application succesfully started |
-| col 2 is      | centered      |   $12 |
+|      | Swipe to change avatars.      |   Avatars are changing acording to your swipes. |
 | zebra stripes | are neat      |    $1 |
 
 
