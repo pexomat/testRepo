@@ -4,6 +4,10 @@
 || Swipe to change avatars.      |   Avatars are changing acording to your swipes. |
 || Perform several facial expresions and movements of head.      |    Avatar moves according to you and mirrors facial expresions. |
 || Try to safe screenshot in top right menu      |    Screenshot successfully taken and saved |
+|Desktop application| Start desktop application      |    Desktop application successfully started. |
+|Mobile Application control| Connect mobile and desktop applications.      |    Applications successfully connected. |
+|| Switch avatar in mobile application.      |    Avatars are changing according to your choices. |
+|| Try to trigger an effect.      |    Effect are triggering according to your choices. |
 
 
 
