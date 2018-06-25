@@ -1,8 +1,9 @@
 | Device        | Description           | Expected result  |
 | ------------- |:-------------:| -----:|
 | Mobile app      | Start mobile app. | Mobile application succesfully started |
-|      | Swipe to change avatars.      |   Avatars are changing acording to your swipes. |
-| zebra stripes | are neat      |    $1 |
+|| Swipe to change avatars.      |   Avatars are changing acording to your swipes. |
+|| Perform several facial expresions and movements of head.      |    Avatar moves according to you and mirrors facial expresions. |
+|| Try to safe screenshot in top right menu      |    Screenshot successfully taken and saved |
 
 
 
