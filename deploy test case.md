@@ -13,12 +13,12 @@
 || Change hair of avatar.      |    Hair of avatar is changing according to your choices. |
 || Change eyes of avatar.      |    Eyes of avatar are changing according to your choices. |
 || Change nose and mouth of avatar.      |    Nose and mouth are changing according to your choices. |
-|||Change head cover of avatar.||Head covers are changing according to your choices.|
-|||Change glasses of avatar.||Glasses are changing according to your choices.|
-|||Change tshirt of avatar.||Tshirt is changing according to your choices.|
-|||Change size and position of avatar.||Size and position of avatar are changing according to your choices.|
-|OBS||Start OBS and add facemoji plugin.||Plugin successfully added.|
-|||Change something in desktop application.||Changes are visible in OBS.|
-|||Start streaming/record video.||Everything (movements, timing, effects) looks perfectly on stream/recorded video.|
-|Performance||Check GPU and CPU usage.||GPU and CPU usage should not be high.? (24.6.2018 pexx pc - CPU +-5%, GPU 20 - 40%)|               	                        
+||Change head cover of avatar.||Head covers are changing according to your choices.|
+||Change glasses of avatar.|Glasses are changing according to your choices.|
+||Change tshirt of avatar.|Tshirt is changing according to your choices.|
+||Change size and position of avatar.|Size and position of avatar are changing according to your choices.|
+|OBS|Start OBS and add facemoji plugin.|Plugin successfully added.|
+||Change something in desktop application.|Changes are visible in OBS.|
+||Start streaming/record video.|Everything (movements, timing, effects) looks perfectly on stream/recorded video.|
+|Performance|Check GPU and CPU usage.|GPU and CPU usage should not be high.? (24.6.2018 pexx pc - CPU +-5%, GPU 20 - 40%)|               	                        
 	                              	                                
