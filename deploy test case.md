@@ -1,6 +1,6 @@
-| Device        | DEscription           | Expected result  |
+| Device        | Description           | Expected result  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Mobile app      | Start mobile app. | Mobile application succesfully started |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
