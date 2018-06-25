@@ -1,3 +1,14 @@
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
+
+
+
+
 Mobile app	                Start mobile app.	                                        Mobile application succesfully started
 	                        Swipe to change avatars.	                                Avatars are changing acording to your swipes.
 	                        Perform several facial expresions and movements of head.	Avatar moves according to you and mirrors facial expresions.
